@@ -1,21 +1,17 @@
 # group-09 RoverTeam
 
 ## What are we making?
-- - -
 * Autonomous **SmartRover** that is designed to explore terrain
 * Receive predefined mission tasks via web interface and execute as scheduled
 * Self-navigate during the mission with obstacle avoidance logic built-in
 
 ## Why are we making it? What problems does it solve?
-- - -
-
 * Gather scientific data since the foreign environment is not possible for humans to go there yet
 * Fully utilize SmartCar software library capabilities to demonstrate
 * The unknown terrain should serve as a great testing ground for obstacle avoidance logic
 
 
 ## How are we going to make it?
-- - -
 * SMCE-Godot to emulate the Martian terrain environment
 * Website with interface to define mission objectives and tasks
 * Utilize MQTT to communicate with the Rover and receive back mission status reports upon completion
@@ -23,7 +19,6 @@
 
 
 ## Development team:
-- - -
 - [Alexander Nikolic](https://github.com/nikalc)
 - [Altansukh Tumenjargal](https://github.com/axe007)
 - [Anwar Ramadi](https://github.com/ramadi-a)
