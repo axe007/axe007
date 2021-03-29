@@ -1,7 +1,7 @@
 # group-09 RoverTeam
 
 ## What are we making?
-* Autonomous **SmartRover** that is designed to explore terrain.
+* Autonomous **SmartRover** that is designed to explore foreign terrain and its environment.
 * The rover predefined mission tasks via web interface and execute as scheduled.
 * Self-navigate during the mission with automatic obstacle avoidance logic built-in if there are any unforeseen obstables.
 
